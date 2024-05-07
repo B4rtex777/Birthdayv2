@@ -3,7 +3,7 @@ import Header from "./components/Header"
 function App() {
 
   return (
-    <div className=" bg-black">
+    <div className=" bg-[rgba(249,182,108,255)]">
       <Header></Header>
     </div>
   )
